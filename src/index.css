@@ -3,11 +3,12 @@
 @tailwind utilities;
 
 @font-face {
-    font-family: 'font1';
-    src: url("./font/font1.woff2");
+  font-family: "font1";
+  src: url("./font/font1.woff2");
 }
 
 @font-face {
-    font-family: 'font2';
-    src: url("./font/font2.woff2");
+  font-family: "font2";
+  src: url("./font/font2.woff2");
 }
+

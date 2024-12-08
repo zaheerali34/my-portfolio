@@ -3,7 +3,7 @@ import React from "react";
 function Skill() {
   return (
     <div className="w-full h-full relative overflow-hidden cursor-pointer leading-[7rem]">
-      <h3 className="text-zinc-200 font-[font1] pt-[8rem] px-[10rem] text-[17px] uppercase tracking-[5px] max-[992px]:px-[7rem] max-sm:px-[3rem]">
+      <h3 className="text-zinc-400 font-[font1] pt-[8rem] px-[10rem] text-[17px] uppercase tracking-[5px] max-[992px]:px-[7rem] max-sm:px-[3rem]">
         Skills
       </h3>
       <div className="w-full relative px-[10rem] border-t-[1px] border-gray-800 mt-7 max-[992px]:px-[7rem] max-sm:px-[3rem]">

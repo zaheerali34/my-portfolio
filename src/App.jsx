@@ -4,6 +4,7 @@ import Header from "./Components/Header/Header";
 import Home from "./Components/Home/Home";
 import About from "./Components/About/About";
 import Skill from "./Components/Skill/Skill";
+import Project from "./Components/Project/Project";
 
 function App() {
   const lenis = new Lenis({
@@ -16,6 +17,7 @@ function App() {
       <Home />
       <About />
       <Skill />
+      <Project />
     </div>
   );
 }

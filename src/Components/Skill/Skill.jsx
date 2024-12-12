@@ -36,8 +36,8 @@ function Skill() {
       <h3 className="text-zinc-400 font-[font1] pt-[8rem] px-[10rem] text-[17px] uppercase tracking-[5px] max-[992px]:px-[7rem] max-sm:px-[3rem]">
         Skills
       </h3>
-      <div className="elem w-full flex items-center relative px-[10rem] border-t-[1px] border-gray-800 mt-7 max-[992px]:px-[7rem] max-sm:px-[3rem]">
-        <h1 className="text-zinc-200 font-[font1] text-[7vw] hover:text-zinc-900 transition duration-[0.3s] max-sm:text-[1rme] ">
+      <div className="elem w-full flex items-center relative px-[10rem] border-t-[1px] border-gray-800 mt-7 max-[992px]:px-[7rem] max-sm:px-[3rem] ">
+        <h1 className="text-zinc-200 font-[font1] text-[7vw] transition duration-[0.3s] max-sm:text-[1rme] ">
           HTML
         </h1>
         <img src="/assets/1.png" alt="" className="w-[10%] absolute opacity-0 scale-0 object-cover -bottom-[10rem] left-[4%]  transition duration-[0.8s] ease-out delay-[1]" />

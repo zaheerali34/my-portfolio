@@ -5,7 +5,7 @@ import "remixicon/fonts/remixicon.css";
 function Home() {
 
   return (
-    <div className='w-full h-screen bg-[url("../assets/bg.jpg")] bg-center bg-cover bg-no-repeat relative'>
+    <div className='w-full h-screen bg-[url("./assets/bg.jpg")] bg-center bg-cover bg-no-repeat relative'>
       <div  className="w-full h-full absolute top-0 bg-[#00000030] flex items-center justify-center font-[font1] uppercase flex-col">
         <h3 className="text-zinc-300 tracking-[5px] max-sm:text-[0.8rem]">Zaheer Rahman</h3>
         <h1 className="textPro text-[8vw] leading-[7rem] mt-[2rem] font-bold text-zinc-200 max-[992px]:leading-[42px] max-sm:text-[2.5rem]">

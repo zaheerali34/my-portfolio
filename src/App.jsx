@@ -12,7 +12,6 @@ function App() {
     autoRaf: true,
   });
 
-
   return (
     <div className="w-full h-full bg-[#0B0B0B]">
       <Header />

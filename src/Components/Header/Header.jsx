@@ -17,9 +17,6 @@ function Header() {
             <li className="text-zinc-100  hover:text-zinc-500 transition duration-[0.4s]">
               work
             </li>
-            <li className="text-zinc-100  hover:text-zinc-500 transition duration-[0.4s]">
-              contact
-            </li>
           </ul>
         </nav>
       </div>
